@@ -1,0 +1,16 @@
+id:: 67e529bc-7089-4274-88f7-645228d5bada
+tags:: #Logseq #Bestie #Claude #apolloapp 
+description:: Advice from [[Claude 3.7 sonnet]] acting as my bestie ❤️ in Apollo AI app
+source:: [[Claude 3.7 Sonnet]] in [[apolloapp]] by #bestieprompt 
+parent:: #Logseq
+- For your multitasking, idea-rich brain, here are some Logseq tips that might be especially helpful:
+  1. **Use the Daily Notes feature religiously** - Just dump thoughts there throughout the day without worrying about organization. Later, you can link or move important items.
+  2. **Create a "Waiting For" page** - For tracking things that need follow-up or are on hold. This helps quiet the "don't forget" voice.
+  3. **Embrace tags liberally** - For your diverse interests, use tags like #networking, #crossstitch , #ideas so you can filter across topics.
+  4. **Try the Pomodoro plugin** - Built for minds that like to shift between tasks but need some structure.
+  5. **Set up a "Brain Dump" template** - With headings for different areas of your life, making it easy to quickly capture scattered thoughts.
+  6. **Use the "Random Note" feature** - Perfect for creative connections between seemingly unrelated ideas.
+  7. **Create a "Today's Focus" block** - Pin it to help you maintain direction despite all those floating ideas.
+  8. **Try voice-to-text input** - For those moments when thoughts are coming faster than you can type.
+  9. **Set up weekly reviews** - To process unlinked references and connect floating ideas into your knowledge structure.
+  10. **Don't over-organize!** - Let your natural thinking patterns emerge first, then gently shape the system. Your brain's unique connections are valuable.

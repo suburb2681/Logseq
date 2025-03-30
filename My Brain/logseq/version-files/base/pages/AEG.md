@@ -1,0 +1,11 @@
+- Automated External Defibrillator
+- ### Call an ambulance first!!!
+- Use after calling an ambulance when someone is unconscious and has no response from your loud voice and patting/shaking
+- Child and adult mode
+	- Child mode is for children aged 2-8 or under 25kg
+- Just follow the instructions from the AEG. There would be CPR instructions depending on the detected EEG and heart rate.
+	- Anyone without first aid training can do CPR. It’s a myth that CPR will break ribs.
+	- Latest first aid standards no longer say mouth to mouth resuscitation is required for CPR
+- Remove the plastic film from the conductor gel pad and stick it on the skin as instructed by the diagrams.
+	- In any circumstances where you cannot follow the diagram, just make sure the pads are diagonally covering the chest and not too close to each other.
+- If an AEG needs to be found and there’s someone nearby, one will do CPR while the other will go and look for an AEG.
