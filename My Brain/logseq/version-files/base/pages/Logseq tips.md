@@ -1,5 +1,6 @@
-tags:: #Logseq
-parent:: #Logseq
+tags:: #Logseq, #How-to 
+parent:: #Logseq, #How-to
+
 - Logseq documentation
 	- **13:12** [[quick capture]]: Advanced comands https://docs.logseq.com/#/page/advanced%20commands
 	- **13:24** [[quick capture]]: Macros and Commands - let’s share https://discuss.logseq.com/t/macros-and-commands-lets-share/9565

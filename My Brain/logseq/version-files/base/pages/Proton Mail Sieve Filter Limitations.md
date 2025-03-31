@@ -1,6 +1,7 @@
 tags:: #[[Proton Mail]] #Sieve 
 parent:: #[[Proton Mail]]
-source:: Gemini Pro 2.0 in [[OpenCat app]] with [[Code Assistant]] prompt
+source:: [[Gemini]] Pro 2.0 in [[OpenCat app]] with [[Code Assistant]] prompt
+
 - Okay, here is a Sieve rule for Proton Mail that should accomplish your goal.
   
   **Important Considerations:**

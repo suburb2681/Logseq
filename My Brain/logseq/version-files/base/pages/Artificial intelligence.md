@@ -1,4 +1,5 @@
 alias:: AI
+
 - **19:30** The fundamentals
   id:: 67e3e602-8c47-4b51-b768-16c7d47a8ab5
   collapsed:: true
@@ -57,7 +58,7 @@ alias:: AI
 	- Specific steps I'd recommend:
 		- Develop your prompt engineering skills - learn to craft effective instructions for AI systems. This leverages your business analyst expertise in requirement gathering.
 		- Enhance your SQL skills further, as data extraction and preparation remain crucial even with advanced AI tools.
-		- Learn to use AI coding assistants like GitHub Copilot or Claude for writing and improving SQL queries.
+		- Learn to use AI coding assistants like [[GitHub Copilot]] or [[Claude]] for writing and improving SQL queries.
 		- Focus on the business analysis parts that AI struggles with: ==stakeholder negotiation, understanding unstated needs, and aligning technical solutions with business strategy.==
 		  id:: 67e3f264-1a16-48e8-9e5e-4d04a5dfbad4
 		- Consider learning a BI/analytics tool like Power BI or Tableau that integrates with AI capabilities.

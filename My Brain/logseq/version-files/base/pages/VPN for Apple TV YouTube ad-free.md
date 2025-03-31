@@ -1,5 +1,6 @@
 tags:: #Apple, #VPN, #Adblock 
 parent:: #VPN, #Adblock
+
 - Ad-free YouTube countries
 	- source:: https://www.reddit.com/r/Adblock/s/34UgoBlAeu
 	- |Country|Reason|
@@ -13,7 +14,7 @@ parent:: #VPN, #Adblock
 	  |🇲🇬 Madagascar - Africa|Less developed country.|
 	  |🇲🇻 Maldives - Asia|In developing state.|
 	  |🇷🇺 Russia|Currently involved in a conflict.|
-- What is the difference between Express VPN and [[Shadowrocket]] and Wireguard VPNs? (From Gemini Flash 2.0 in [[Apollo App]])
+- What is the difference between Express VPN and [[Shadowrocket]] and Wireguard VPNs? (From [[Gemini]] Flash 2.0 in [[Apollo App]])
   collapsed:: true
 	- **ExpressVPN** is a premium VPN service offering its own protocols (like Lightway) focused on privacy and speed. While they initially found **WireGuard** promising, they noted its anonymity challenges in 2019 ([expressvpn.com](https://www.expressvpn.com)). Since then, services integrating WireGuard (or modified versions) highlight its open-source efficiency and modern cryptography for speed and security ([allaboutcookies.org](https://allaboutcookies.org)).
 	- **Shadowrocket** is an iOS proxy client app, not a VPN service itself—it lets you configure VPN protocols (including WireGuard) with third-party servers.

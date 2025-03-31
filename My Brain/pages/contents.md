@@ -1,4 +1,4 @@
--
+- {{renderer block-calendar}}
 - {{pagetree from, parent}}
   query-table:: true
   query-properties:: [:page]

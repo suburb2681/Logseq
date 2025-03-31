@@ -312,7 +312,7 @@
  :graph/forcesettings {:charge-range 900}
 
  ;; Favorites to list on the left sidebar
- :favorites ["contents" "tasks" "logseq backup"]}
+ :favorites ["Logseq Backup" "Tasks" "Logseq tips" "Contents"]}
 
  ;; Set flashcards interval.
  ;; Expected value:
