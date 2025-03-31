@@ -1,6 +1,5 @@
 tags:: #Git #GitHub
 parent:: #Logseq
-
 - Make sure all devices are sync. Make MacBook the master version.
   logseq.order-list-type:: number
 - Quit Logseq in MacBook.

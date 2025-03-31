@@ -1,6 +1,5 @@
 tags:: #Git #Coding, #How-to 
 parent:: #Git, #How-to
-
 - ```git
   # Initialize a new repository
   git init

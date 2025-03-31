@@ -1,0 +1,5 @@
+- {{embed ((67e528ef-3a8f-4091-b106-8f62352f3db5))}}
+- Tailscale in China
+	- **01:40** [[quick capture]]: 在大陸使用 Tailscale 去取存香港屋企的網絡設備的資源 - 網絡寬頻 - 電腦領域 HKEPC Hardware - 全港 No.1 PC討論區 https://www.hkepc.com/forum/viewthread.php?fid=12&tid=2708694&extra=&page=1
+	- {{video https://www.youtube.com/watch?v=Mj2VDIugcd0}}
+	-

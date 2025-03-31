@@ -1,0 +1,27 @@
+description:: the origin of the Apple Shortcut I made
+tags:: #Apple #AI #Claude #apolloapp #iOS #Shortcuts 
+prompt:: #[[Claude 3.7 Sonnet Prompt]]
+llm:: [[Claude 3.7 Sonnet]]
+- User: How would call a tool that can summarise, read and translate text?
+	- Assistant: I'd call that a "Text Processing Assistant" or "Multi-function Text Tool." It combines the key capabilities of summarisation, reading (presumably text-to-speech or comprehension), and translation into a single utility. It's essentially a comprehensive text manipulation tool that handles multiple language-related functions at once.
+	- Would you like to hear more about how such tools work or are you looking to find or build something like this?
+- User: Any shorter name for this kind of tools? I’m trying to name my ios shortcut
+	- Assistant: How about:
+	  
+	  "TextMate"
+	  "TextPro"
+	  "TextWiz"
+	  "TextAll"
+	  "Polytext"
+	  "TextTrio"
+	  "QuickText"
+	  "TextHub"
+	  
+	  "TextMate" or "TextWiz" would be my top suggestions for an iOS shortcut - short, memorable and descriptive of what it does.
+- User: TextWiz it is! 👍🏻 TextMate is a text editor app I used in Mac 😅
+  Thanks!
+	- Assistant: Perfect choice with TextWiz! 🧙‍♂️ 
+	  
+	  And good catch on TextMate - I should have remembered it's already a well-known Mac text editor! TextWiz has a nice magical feel to it that suits a tool that can transform text in multiple ways.
+	  
+	  Happy to help with your iOS shortcut naming! Let me know if you need anything else with your text wizard project.

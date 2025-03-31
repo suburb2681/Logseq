@@ -17,7 +17,8 @@ parent:: #VPN
   id:: 67e52eab-2e96-4647-b6a8-8d4576f85961
 	- https://clashhk.com/21047.html
 	- https://www.wallmama.com/mullvad-vpn%E4%B8%AD%E5%9B%BD%E8%AF%84%E6%B5%8B/
-- Tailscale
+- [[Tailscale]]
   id:: 67e52eeb-0a49-4029-a570-f7bb44fc7e1d
 	- https://deverman.org/using-mullvad-vpn-apple-tv/
 	- https://tailscale.com/blog/mullvad-integration
+	  id:: 67e9b334-1128-4a4a-8634-f57c0457f16e
