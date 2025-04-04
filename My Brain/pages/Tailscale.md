@@ -1,6 +1,5 @@
 tags:: #VPN, #Mullvad 
 parent:: #VPN
-
 - [[Tailscale VPN Explained]]
 - {{embed ((67e528ef-3a8f-4091-b106-8f62352f3db5))}}
 - Tailscale in China

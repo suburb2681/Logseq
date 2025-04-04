@@ -1,7 +1,6 @@
 tags:: [[Proton Mail]] #Sieve
 parent:: #[[Proton Mail]]
 source:: [[Gemini]] Pro 2.0 in [[OpenCat app]] with [[Code Assistant]] prompt
-
 - Okay, here is a Sieve script for Proton Mail that allows you to set an expiration date (automatic deletion) for emails based on sender or recipient addresses. You can easily edit the list of addresses and the expiration duration directly within the script.
   
   **Important:**

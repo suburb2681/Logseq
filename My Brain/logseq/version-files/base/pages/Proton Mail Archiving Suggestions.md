@@ -1,7 +1,6 @@
 tags:: [[Proton Mail]]
 parent:: #[[Proton Mail]]
 source:: [[Gemini]] Pro 2.0 in [[OpenCat app]] with [[Code Assistant]] prompt
-
 - You've hit on a key limitation of server-side filtering like Sieve in most email systems, including Proton Mail: **Sieve rules typically run *only* when a message arrives at the server.** They generally don't have a built-in mechanism to automatically scan and act upon emails already stored in your folders.
   
   So, Proton Mail itself does not currently offer a built-in, automatic way to run rules (like your Sieve filter) retroactively across your entire existing mailbox *on the server side*.

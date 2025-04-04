@@ -2,7 +2,6 @@ tags:: #VPN #Tailscale #AI #apolloapp
 parent:: #Tailscale
 prompt:: #[[Apollo Search]]
 llm:: [[Claude 3.7 Sonnet]], [[DeepSeek R1]], [[Gemini]] Pro 2.5
-
 - User: Explain in simple terms how tailscale works as a VPN
   collapsed:: true
 	- Assistant: Okay, in simple terms, Tailscale is a VPN service, but it works a bit differently from traditional VPNs [2].

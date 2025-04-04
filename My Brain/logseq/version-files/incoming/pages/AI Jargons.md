@@ -1,0 +1,90 @@
+tags:: #AI, #LLM 
+parent:: #AI
+source:: #Perplexity, #Gemini
+- distill
+	- source: 
+	  **13:01** [[quick capture]]:  https://www.perplexity.ai/search/82eb4276-d7ea-4d4b-8a0b-6bcd07c3c033
+	- This refers to the process of knowledge distillation, where a large, complex model (the “teacher”) is used to train a smaller, more efficient model (the “student”). The goal is to transfer the knowledge from the teacher to the student, allowing the smaller model to achieve similar performance at a lower computational cost
+- instruct
+	- source: 
+	  **13:01** [[quick capture]]:  https://www.perplexity.ai/search/82eb4276-d7ea-4d4b-8a0b-6bcd07c3c033
+	- While not explicitly defined in the context of LLM distillation, “instruct” generally means providing guidance or commands to a model. In AI, this could involve prompting or directing a model to perform specific tasks or generate certain outputs. However, in the specific context of LLM distillation, “instruct” might relate to how the teacher model guides the student model through its outputs or rationales.
+- self-moderated
+	- source: 
+	  **13:01** [[quick capture]]:  https://www.perplexity.ai/search/82eb4276-d7ea-4d4b-8a0b-6bcd07c3c033
+	- In the context of Anthropic’s Claude 3.7 Sonnet being described as “self-moderated,” it likely refers to the model’s ability to regulate its own outputs based on predefined principles or rules, rather than relying on external moderators. This is part of Anthropic’s approach to ensuring safety and harmlessness through Constitutional AI, which involves training the model to adhere to specific guidelines and principles to generate respectful and appropriate responses. However, the term “self-moderation” typically refers to community-driven moderation in online platforms, where users manage content standards themselves. In AI models, it implies internal mechanisms for maintaining output standards.
+- abliterated
+	- source: https://g.co/gemini/share/ea0286faa764
+	- Absolutely! Let's break down "abliteration" in the context of the model "DeepSeek-R1-Distill-Qwen-7B-abliterated-v2" on Hugging Face.
+	  
+	  **What is "Abliteration"?**
+	  
+	  In this specific context, "abliteration" refers to a process where parts of a language model's knowledge or capabilities are deliberately removed or weakened. Think of it like selectively erasing or blurring certain information from the model's "memory."
+	  
+	  **Why Would You "Abliterate" a Model?**
+	  
+	  The main reasons for doing this are:
+	- **Privacy:** To remove sensitive or private information that the model might have learned during its training. If the model was trained on data that included personal details, abliteration can help ensure those details aren't reproduced.
+	- **Bias Reduction:** To eliminate or reduce biases that the model might have picked up from its training data. Models can sometimes learn harmful stereotypes, and abliteration can be used to try and "erase" those biases.
+	- **Controlling Behavior:** To limit the model's ability to generate certain types of content. For example, you might abliterate the model's knowledge of how to produce hate speech or harmful instructions.
+	- **Distillation Improvement:** Sometimes, when creating a smaller, faster version of a large model (which is called "distillation"), some knowledge or capabilities of the large model may be irrelevant or harmful to keep. Abliteration can be used to improve the distilation process.
+	- **Experimental purposes:** To study how specific knowledge affects the model's behavior.
+	  
+	  **Examples to Help Understand:**
+	- **Privacy Example:**
+		- Imagine a model trained on a dataset containing medical records. You might "abiterate" the model's ability to recall specific patient names or addresses to protect their privacy.
+	- **Bias Reduction Example:**
+		- If a model shows a tendency to associate certain professions with specific genders, you might abliterate the connections between those professions and genders, making the model more neutral.
+	- **Controlling Behavior Example:**
+		- If a model is able to generate harmful code, a developer may abliterate the models ability to produce that type of code.
+	- **Distillation Improvement example:**
+		- A large language model may have a lot of specific knowledge about coding that a smaller general purpose language model doesn't need. The coding specific knowledge could be abliterated to make the smaller model more efficient at general tasks.
+		  
+		  **In the context of "DeepSeek-R1-Distill-Qwen-7B-abliterated-v2":**
+		  
+		  The "abliterated-v2" part of the model's name suggests that the developers have applied a process of removing or weakening certain aspects of the original Qwen-7B model. This was likely done to refine the distilled version, DeepSeek-R1, for specific purposes, potentially involving privacy, bias reduction, or improved performance.
+- 1.5B or 8B
+	- source: https://g.co/gemini/share/16594df4c729
+	- **Model Size:**
+		- "DeepSeek-R1-Distill-Qwen-1.5B-bf16" has 1.5 billion parameters. This is considered a relatively small model.
+		- "DeepSeek-R1-Distill-Llama-8B-4bit-mlx" has 8 billion parameters.
+- 4bit or bf16
+	- source: https://g.co/gemini/share/16594df4c729
+	- **Quantization:**
+		- "DeepSeek-R1-Distill-Qwen-1.5B-bf16" utilizes "bf16" (bfloat16) which is a floating point format used to reduce the memory footprint and increase the processing speed of the model.
+		- "DeepSeek-R1-Distill-Llama-8B-4bit-mlx" utilizes "4-bit" quantization, which further reduces the model's size and memory requirements.
+- mlx
+	- source: https://g.co/gemini/share/16594df4c729
+	- "mlx" refers to the Apple MLX framework, indicating it's optimized for Apple silicon.
+- [[llm]]
+	- source: 
+	  **13:12** [[quick capture]]:  https://www.perplexity.ai/search/122fa3f6-e136-4615-adff-4979aca45999
+	- LLMs: These models are trained on vast datasets to recognise patterns and generate text based on statistical probabilities. They excel at tasks like text generation and simple question-answering but may struggle with complex logical reasoning.
+- Reasoning
+	- source: 
+	  **13:12** [[quick capture]]:  https://www.perplexity.ai/search/122fa3f6-e136-4615-adff-4979aca45999
+	- Reasoning Models: Designed to simulate logical processes, these models use explicit knowledge representation and inference mechanisms. They are capable of multi-step reasoning, often displaying intermediate steps in their thought process, making them more suitable for tasks requiring structured decision-maki
+- refusals
+	- source: https://g.co/gemini/share/16594df4c729
+	- When we talk about "removing refusals from an LLM model," we're addressing a specific behavior that large language models (LLMs) often exhibit. Here's a breakdown:
+	  
+	  **Understanding LLM Refusals**
+	- **Safety and Ethics:**
+		- LLMs are often programmed with safety guidelines to prevent them from generating harmful, unethical, or illegal content.
+		- When a user's prompt violates these guidelines, the model might "refuse" to answer, typically responding with phrases like "I cannot provide information on that" or "I'm sorry, I can't help with that request."
+	- **Reasons for Refusal:**
+		- These refusals are intended to protect users from dangerous information, prevent the spread of hate speech, and avoid generating content that could be misused.
+		- However, sometimes, LLMs might refuse to answer even relatively harmless or legitimate questions, leading to frustration.
+		  
+		  **"Removing Refusals" in this Context**
+	- **Modifying Behavior:**
+		- "Removing refusals" means altering the LLM's programming so that it's less likely to decline to answer questions.
+		- This can involve techniques that adjust the model's internal "decision-making" processes, effectively bypassing some of its safety filters.
+	- **Potential Implications:**
+		- This process, as seen with the "abliteration" term, can be very controversial.
+		- On one hand, it can make LLMs more flexible and responsive.
+		- On the other hand, it can increase the risk of the model generating harmful or inappropriate content.
+	- **Technical details:**
+		- As described in the search results, there are methods to identify the "refusal direction" within the models layers. Once that direction is found, it can be altered or removed.
+		  
+		  In essence, "removing refusals" aims to make LLMs more compliant, but it also raises significant ethical and safety concerns.

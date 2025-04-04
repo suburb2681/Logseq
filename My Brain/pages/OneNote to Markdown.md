@@ -23,4 +23,12 @@ description:: ways to convert from OneNote to markdown file format for Logseq im
 		- Or use Pandoc for HTML conversion
 		  logseq.order-list-type:: number
 		  **01:25** [[quick capture]]: azu/export-onenote-to-html: A Toolkit that convert OneNote pages into HTML and Markdownhttps://github.com/azu/export-onenote-to-html
+- Export from OneNote on Web manually
+  logseq.order-list-type:: number
+	- https://support.microsoft.com/en-us/office/export-onenote-notebooks-a4b60da5-8f33-464e-b1ba-b95ce540f309
+	  logseq.order-list-type:: number
+		- ! Doesn't work
+		  logseq.order-list-type:: number
+- [Advice from Google Gemini]([[Gemini: How to export OneNote to MD]])
+  logseq.order-list-type:: number
 - logseq.order-list-type:: number

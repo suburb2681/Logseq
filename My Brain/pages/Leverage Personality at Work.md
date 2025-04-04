@@ -2,7 +2,6 @@ tags:: #AI #DeepSeek #apolloapp
 prompt:: [[Apollo Prompt]]
 llm:: #[[DeepSeek R1]]
 description:: Leveraging Personality insights from 八字四柱, 星盤, MBTI analysis for business analysis with SQL ETL skills
-
 - ### **八字四柱**（需出生地點確認真太陽時）
 - **年柱**：甲戌（木狗）
 - **月柱**：丁卯（火兔）

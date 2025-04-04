@@ -3,7 +3,6 @@ parent:: #VPN
 prompt:: [[Apollo Prompt]] 
 LLM:: [[Gemini]] Flash 2.0
 description:: VPN Comparison between Express VPN, Shadowrocket and Wireguard
-
 - User: What is the difference between Express VPN and [[Shadowrocket]] and Wireguard VPNs?
   id:: 67eade5b-c10c-4aa8-a36e-c73651591c45
 	- Assistant: **ExpressVPN** is a premium VPN service offering its own protocols (like Lightway) focused on privacy and speed. While they initially found **WireGuard** promising, they noted its anonymity challenges in 2019 ([expressvpn.com](https://www.expressvpn.com)). Since then, services integrating WireGuard (or modified versions) highlight its open-source efficiency and modern cryptography for speed and security ([allaboutcookies.org](https://allaboutcookies.org)).
