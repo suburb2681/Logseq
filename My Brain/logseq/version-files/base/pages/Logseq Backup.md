@@ -1,4 +1,4 @@
-tags:: #Git #GitHub
+tags:: #Git #GitHub #Logseq 
 parent:: #Logseq
 - Make sure all devices are sync. Make MacBook the master version.
   logseq.order-list-type:: number

@@ -1,6 +1,5 @@
-tags:: #VPN
+tags:: #VPN #China 
 parent:: #VPN
-
 - Proven working VPNs for China
 	- https://www.reddit.com/r/chinalife/s/EBhXJ8BXqz #Reddit
 	- Astrill VPN (expensive)

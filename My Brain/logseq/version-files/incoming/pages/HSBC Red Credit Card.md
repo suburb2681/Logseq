@@ -1,0 +1,13 @@
+tags:: #Finance #Banking #[[Credit card]] #HSBC
+parent:: [[Credit card]]
+source:: https://www.hsbc.com.hk/credit-cards/products/red/#fn-cards-redcard421
+- RewardCash
+	- ### Online spending
+		- Earn 4% RewardCash on the first HKD10,000 you spend online and unlimited 1% RewardCash on subsequent online spending each calendar month
+	- ### Designated spending categories
+		- Earn 1% RewardCash on designated spending categories
+			- Enjoy dining at restaurants and eateries in Hong Kong
+			- Spend in foreign currency on your travels in mainland China,  Macau, and overseas
+			- Indulge in health and leisure at cinemas, ticket offices, and fitness centres
+			- Shop smart and manage home spends at supermarkets, furniture and home appliance stores, and telecom service providers
+			- Indulge in some self-care with lifestyle spends in beauty and fashion, pet care, and at bookstores

@@ -230,4 +230,5 @@
   ```
 - source:: **15:47** [[quick capture]]:  https://discuss.logseq.com/t/generate-explicit-hierarchy-out-of-properties/20635
   tags:: #Logseq
+  exclude-from-graph-view:: true
 -

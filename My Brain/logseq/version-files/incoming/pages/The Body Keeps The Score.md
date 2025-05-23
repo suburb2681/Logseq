@@ -14,3 +14,18 @@ author:: [[Bessel van der Kolk]]
 		- [[DeepSeek]] told me about [[Binaural Beats]] and told me I can find them in Spotify, YouTube and [[Calm app]].
 			- Luckily I can get the Calm app under company health plan and I have been using it ever since for [[Meditation]] , [[Sleep]], [[breathing exercises]] and [[Mindfulness]] training
 			- I find the [[Binaural Beats]] in Spotify quite unpleasant and makes me uncomfortable while those in [[Calm App]] are soothing and much better
+- Quotes
+  id:: 6820e5ac-5d11-4cb9-b809-8fdfb9f578a4
+	- ‘Acting is not about putting on a character but discovering the character within you; you are the character, you just have to find it within yourself—albeit a very expanded version of yourself.’ —Tina Packer
+	- Our sense of agency, how much we feel in control is defined by our relationship with our bodies and its rhythms… In order to find our voice, we have to be in our bodies - able to breathe fully and able to access our inner sensations.
+		- tags:: #thoughts #counselling
+		  Hence the useful somatic therapy, PAL taught by Michelle.
+	- It’s also the opposite of depression… Acting is an experience of using your body to take your place in life.
+		- tags:: #thoughts
+		  i.e. Grounding, being grounded to feel the present, to feel life and the world.
+	- Music, art, theatre, sports — timeless ways of fostering competence and collective bonding.
+	- Competence is the best defence against the helplessness of trauma.
+	- “If you want to give them a sense of control, you have to give them power over their destiny rather than intervene on their behalf,” … “You cannot help, fix, or save the young people you are working with. What you can do is work side by side with them, help them to understand their vision, and realise it with them. By doing that you give them back control.”
+	- All of us… need such confidence - confidence that others will know, affirm, and cherish us. Without that we can’t develop a sense of agency that will enable us to assert: “This is what I believe in; this is what I stood for; this is what I will devote myself to.” As long as we feel safely held in the hearts and minds of the people who love us, …adults will do anything for people they trust and whose opinion they value.(P.350)
+	- But if we feel abandoned, worthless, or invisible, nothing seems to matter. Fear destroys curiosity and playfulness. In order to have a healthy society we must raise children who can safely play and learn. There can be no growth without curiosity and no adaptability without being able to explore, through trial and error, who you are and what matters to you. (P.350)
+	- However, if nothing they do seems to make a difference, they feel trapped become susceptible to the lure of pills, gang violence, extremist religions, or violent political movements — anybody and anything that promises relief. (P.351)

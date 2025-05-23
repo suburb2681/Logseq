@@ -1,0 +1,11 @@
+tags:: #Christianity #Religion
+parent:: #Christianity
+source:: #Wikipedia
+
+- **Liberal Christianity - Wikipedia**
+- Liberal Christianity, broadly speaking, is a method of biblical hermeneutics, an undogmatic method of understanding God through the use of scripture by applying the same modern hermeneutics used to understand any ancient writings, symbols and scriptures.
+- ..."liberalism" from the start embraced the methodologies of **Enlightenment science**, including **empirical evidence** and the use of **reason**, as the basis for interpreting the Bible, life, faith and theology.
+- The word liberal in liberal Christianity originally denoted a characteristic willingness to interpret scripture according to **modern philosophic** **perspectives** (hence the parallel term modernism) and **modern scientific assumptions**, while attempting to achieve the Enlightenment ideal of **objective** point of view, without preconceived notions of the authority of scripture or the correctness of Church dogma.
+- The style of Scriptural hermeneutics (interpretation of the Bible) within liberal theology is often characterized as **non-propositiona**l. This means that the Bible is **not** considered a collection of **factual statements**, but instead an **anthology** that documents the **human authors' beliefs and feelings about God** at the time of its writing—within a **historical** or **cultural context**. Thus, liberal Christian theologians do not claim to discover truth propositions but rather create **religious models and concepts** that reflect the class, gender, social, and political contexts from which they emerge. Liberal Christianity looks upon the Bible as a collection of **narratives** that explain, epitomize, or symbolize the **essence and significance of Christian understanding**.
+- Many liberals prefer to read **Jesus' miracles** as **metaphorical narratives **for understanding the **power of God**. Not all theologians with liberal inclinations reject the possibility of miracles, but many reject the polemicism that denial or affirmation entails. Therefore, liberal Christian theologians often *reject* traditional Christian teaching on subjects such as the **Virgin Birth**, the **Resurrection**, and the **authority of Scripture**.
+- https://en.m.wikipedia.org/wiki/Liberal_Christianity
