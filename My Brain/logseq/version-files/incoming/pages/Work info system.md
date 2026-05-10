@@ -1,6 +1,5 @@
-source:: [[Claude 3.7 Sonnet]] in [[Apollo app]] by #bestieprompt 
+source:: [[Claude Sonnet 3.7]] in [[Apollo app]] by #bestieprompt 
 tags:: #Bestie
-
 - Oh, I feel that scattered system struggle! When you've got email flags, bullet journal, AND OneNote all going at once, it's like having three different assistants who don't talk to each other.
   
   This might be a perfect scenario for applying the "one inbox" principle - not necessarily meaning one tool, but one consistent decision-making process across your tools:

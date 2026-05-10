@@ -1,0 +1,40 @@
+tags:: #Psychology #Anxiety #Depression #Christianity #Confidence 
+parent:: #Confidence
+- http://www.actforlibraries.org/key-pillar-of-confidence-self-esteem-2/
+	- Can we accept who we are with all of our inner most strengths and weakness! First off, we should consider our strengths.
+		- [[2025/05/23 Friday]]
+			- Strengths
+				- Bright, quick learner
+				- Curious mind
+				- Like learning and digging deep
+				- Problem solving
+				- Intellectual
+				- Self-awareness
+				- Kind and trusting
+				- Spiritual and sensitive soul
+			- Weaknesses
+				- Standoffish, poker face
+				- Bad at socialising
+				- Judgemental
+				- Self-critical
+				- All or nothing mindset; perfectionist
+				- Snob; pretends to be rich, regal, high and mighty
+				- Pessimistic
+				- Low self-worth and esteem
+				- Big ego
+				- Sensitive to criticisms
+				- Too trusting
+				- Materialistic
+				- Proud
+	- Are we friendly, happy, well adjusted people?
+		- [[2025/05/23 Friday]] Me: no
+	- Are we content enough with our lives just exactly as they are?
+		- [[2025/05/23 Friday]] Me: yes with life but not myself
+	- Are we just putting on a front to deceive our selves and those in our immediate sphere of influence? In short are we just trying to impress our neighbours, and ourselves?
+		- [[2025/05/23 Friday]] Me: yes, I’m a snob
+	- Should we live a life style beyond our social, and economic means? Does it really matter after all if we,”keep up with the Jones?”
+		- [[2025/05/23 Friday]] Me: no but I want to
+	- Are we in control of our circumstances, or are we being controlled by them? The book shelves are filled to the brim with books written by expert behavioral motivational speakers, who aim to help us improve our financial networks.
+		- [[2025/05/23 Friday]] Me: controlled by others
+	- One of the best motivational books about self confidence is the Holy Bible. Wait a minute doesn’t the Bible refer to people as sinners? Of course it does, but it gives the secret to self-confidence. First God doesn’t underplay human nature! Second of all, He is in the character reformation business. Who else can take a drug addict or alcoholic, and turn them into self confident human beings, but Jesus Christ!
+	- I don’t recommend looking at the world through rose colored glasses, but one of the keys to building self-confidence is becoming a valuable person to your church and/or community by getting involved in worth while causes and making a difference!

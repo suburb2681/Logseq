@@ -1,5 +1,5 @@
 alias:: AI
-- **19:30** The fundamentals
+- [The fundamentals](((67eae8b5-54ad-4f31-bd82-af3dfe693133)))
   id:: 67e3e602-8c47-4b51-b768-16c7d47a8ab5
   collapsed:: true
 	- The fundamentals of AI that are worth understanding:
@@ -12,7 +12,7 @@ alias:: AI
 	  6. These technologies amplify existing power structures unless deliberately designed otherwise - the organizations with data, computing, and technical talent gain advantages.
 	- The core question isn't "what can this technology do?" but rather "how do we want to integrate this technology into human systems in ways that benefit society?"
 	- Understanding these basics gives you a foundation for interpreting new developments without needing to track every announcement.
-- **19:45** How is it different from machine learning?
+- [How is it different from machine learning?](((67eae8b5-91ed-4986-89bf-037617a44c0f)))
   id:: 67e3e602-1560-4461-a033-bbc52120b2f2
   collapsed:: true
 	- AI and machine learning relate to each other as follows:
@@ -47,7 +47,7 @@ alias:: AI
 	- Question source: https://www.reddit.com/r/Bard/s/gKWJYcTB7f
 	- https://en.wikipedia.org/wiki/Tensor_Processing_Unit
 	- **20:17** [[quick capture]]:  https://www.perplexity.ai/search/what-are-tpus-Aj117ODPSsqox78IO9vaBg
-- **20:25** How to be future-proof career-wise with AI disruption? {{cloze I’m not good with probability and matrices. However I am a technical business analyst with beginner skills in SQL.}}
+- [**20:25** How to be future-proof career-wise with AI disruption?](((67eae8b5-2bdb-4435-953d-003e1dd4fb4d))) {{cloze I’m not good with probability and matrices. However I am a technical business analyst with beginner skills in SQL.}}
   id:: 67e3f044-66b9-47ba-90d7-959ec9da70a6
   collapsed:: true
 	- Your business analyst background with SQL skills actually positions you well for the AI transition. Here's how to future-proof your career:
@@ -57,13 +57,13 @@ alias:: AI
 	- Specific steps I'd recommend:
 		- Develop your prompt engineering skills - learn to craft effective instructions for AI systems. This leverages your business analyst expertise in requirement gathering.
 		- Enhance your SQL skills further, as data extraction and preparation remain crucial even with advanced AI tools.
-		- Learn to use AI coding assistants like GitHub Copilot or Claude for writing and improving SQL queries.
+		- Learn to use AI coding assistants like [[GitHub Copilot]] or [[Claude Sonnet]] for writing and improving SQL queries.
 		- Focus on the business analysis parts that AI struggles with: ==stakeholder negotiation, understanding unstated needs, and aligning technical solutions with business strategy.==
 		  id:: 67e3f264-1a16-48e8-9e5e-4d04a5dfbad4
 		- Consider learning a BI/analytics tool like Power BI or Tableau that integrates with AI capabilities.
 	- You don't need deep mathematical understanding to succeed in this AI-augmented business analyst role. The technical programming aspects are becoming easier with AI assistance, while the human elements of understanding business problems and coordinating between teams become more valuable.
 	- The sweet spot is becoming an "AI-enabled business analyst" who can translate business requirements into problems that AI tools can help solve.
-- **20:38** What about when AGI emerges? {{cloze (Follow-up to: ((67e3f044-66b9-47ba-90d7-959ec9da70a6)))}}
+- [**20:38** What about when AGI emerges?](((67eae8b5-c99a-4a71-8904-5acecc70caa3))) {{cloze (Follow-up to: ((67e3f044-66b9-47ba-90d7-959ec9da70a6)))}}
   id:: 67e3f543-1775-4177-af6c-17c7b3c8f7fa
   collapsed:: true
 	- When considering AGI (Artificial General Intelligence), it's important to distinguish between different scenarios:

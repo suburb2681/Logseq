@@ -1,0 +1,45 @@
+tags:: #italian #recipe #[[Migrate from Pocket]] 
+status:: active
+description:: A really creamy, rich and delicious chicken and mushroom risotto.
+parent:: #Recipes
+last-updated:: [[2025/05/24 Saturday]] 20:08
+- ## Recipe
+	- ### Ingredients
+		- 2 tbsp olive oil
+		- 350–400g/12–14oz skinless chicken breast
+		- 50g/1¾oz butter
+		- 1 brown onion
+		- 250g/9oz chestnut mushrooms, quartered
+		- 2 garlic cloves, crushed
+		- 1 bay leaf
+		- 250g/9oz risotto rice, such as carnaroli or arborio
+		- 150ml/5fl oz dry white wine
+		- 950ml/32fl oz hot chicken stock (fresh or made from 1½ chicken stock cubes)
+		- 75g/2¾oz Parmesan, finely grated
+		- salt and freshly ground black pepper
+		- freshly chopped parsley, to serve (optional)
+	- ### Instructions
+		- Heat the oil in a wide saucepan or flameproof casserole over a medium–high heat. Season the chicken with a little salt and lots of pepper and add to the pan. Fry for 4–6 minutes, turning occasionally, until lightly browned and cooked through. Transfer to a plate.
+		  logseq.order-list-type:: number
+		- Return the pan to the heat and add half the butter, the onion and mushrooms and fry for 5 minutes, stirring regularly, until the onion is softened and the mushrooms are lightly browned. Add the garlic and bay leaf and cook for 1 minute, stirring.
+		  logseq.order-list-type:: number
+		- Add the rice and cook for 20–30 seconds, stirring constantly, then pour in the wine and boil until reduced by half.
+		  logseq.order-list-type:: number
+		- Add a ladleful of the hot stock and stir well. Cook, stirring constantly, until the liquid has almost disappeared. Continue adding stock a ladleful at a time, stirring constantly and simmering until absorbed, for about 15 minutes, or until the rice is tender and creamy, with a 
+		  logseq.order-list-type:: number
+		  slight bite.
+		- Return the chicken to the pan along with the final ladleful or two of stock and cook, stirring, for 3 minutes, or until hot throughout. The risotto should look quite sloppy at this point, but it will continue to absorb the stock. (Add a splash more just-boiled water if your risotto is looking dry.)
+		  logseq.order-list-type:: number
+		- Remove the pan from the heat, stir in the Parmesan and remaining butter. Cover with a lid and leave to stand for 5 minutes. Before serving, stir well, and scatter with the parsley, if using.
+		  logseq.order-list-type:: number
+	- #### Tips
+		- If you use button mushrooms, halve rather than quarter them.
+		- Stirring constantly will help release the starch from the rice and make the risotto extra creamy, but if you need to get on with other things you can add all the stock at once and stir regularly, especially towards the end of the cooking time.
+		- Cut the chicken pieces no larger than 2cm/¾in, so they cook quickly and stay tender when reheated in the risotto.
+	- #### My notes
+		- Following this recipe will result in fully cooked risotto. For al dente, add less stock like 750ml
+		- Bay leaf, white whine are optional
+		- Good to replace Parmesan with Cheddar
+	- *Sources:*
+		- https://www.bbc.co.uk/food/recipes/chicken_and_mushroom_31559
+		  (Date accessed: [[2025/05/24 Saturday]] 20:09)

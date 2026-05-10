@@ -1,5 +1,8 @@
-tags:: #Opinion #China 
+tags:: #Opinion #China #[[Migrate from Apple Notes]]
 parent:: #Opinion
+author:: unknown
+source:: unknown
+
 - 看到一篇文章，雖然內容及角度不全面，尤其是香港人未必認同。但的確也是一個角度，而且相信是佔人類一半以上的貧窮國家人民的角度。這也是我認為一帶一路能成功的原因之一。
 - —————————————————————
 - 巴鐵公務員：為何那麼多人喜歡中國？

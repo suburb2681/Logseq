@@ -1,4 +1,4 @@
 alias:: crossstitch
 tags:: #bestieprompt
-source:: [[Claude 3.7 Sonnet]] in [[Apollo App]] with #Bestie prompt
+source:: [[Claude Sonnet 3.7]] in [[Apollo App]] with #Bestie prompt
 -

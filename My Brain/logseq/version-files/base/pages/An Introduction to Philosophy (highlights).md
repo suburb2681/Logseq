@@ -2,6 +2,7 @@ title:: An Introduction to Philosophy (highlights)
 author:: [[George Stuart Fullerton]]
 full-title:: "An Introduction to Philosophy"
 category:: #books
+language:: #english
 ![](https://images-na.ssl-images-amazon.com/images/I/519bidR-IIL._SL200_.jpg)
 - Highlights first synced by [[Readwise]] [[2025/03/24 Monday]]
 	- nature of reflective or philosophical thinking, ([Location 4](https://readwise.io/to_kindle?action=open&asin=B00849N75Y&location=4))

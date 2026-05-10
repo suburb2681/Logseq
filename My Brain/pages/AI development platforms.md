@@ -1,7 +1,6 @@
 tags:: #AI, #apolloapp 
 source:: [[DeepSeek R1]] in #apolloapp
 parent:: #AI
-
 - There are so many apps for AI. What are the differences between dify, cherry studio and trea.ai and windsurf ?
 	- Dify¹³⁴ focuses on low-code AI app development with enterprise-grade scalability, offering visual workflows and GPT-4 integration for complex task automation. It's open-source and particularly strong for LLM-based solutions⁵.
 	  collapsed:: true

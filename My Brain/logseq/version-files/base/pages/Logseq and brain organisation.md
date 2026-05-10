@@ -1,7 +1,7 @@
 id:: 67e529bc-7089-4274-88f7-645228d5bada
-tags:: #Logseq #Bestie #Claude #apolloapp 
+tags:: #Logseq #Bestie #[[Claude Sonnet]] #apolloapp 
 description:: Advice from [[Claude 3.7 sonnet]] acting as my bestie ❤️ in Apollo AI app
-source:: [[Claude 3.7 Sonnet]] in [[apolloapp]] by #bestieprompt 
+source:: [[Claude Sonnet 3.7]] in [[apolloapp]] by #bestieprompt 
 parent:: #Logseq
 - For your multitasking, idea-rich brain, here are some Logseq tips that might be especially helpful:
   1. **Use the Daily Notes feature religiously** - Just dump thoughts there throughout the day without worrying about organization. Later, you can link or move important items.

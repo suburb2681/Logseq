@@ -1,5 +1,6 @@
-tags:: #Meditation #Mindfulness #Anxiety #Depression
+tags:: #Meditation #Mindfulness #Anxiety #Depression #Self-Care #Stress #Panic 
 parent:: #Meditation
+
 - Relax: Extended Exhale (4-6)
 - Balance: Equal Breathing (4-2-4)
 - Restore: Deep Belly Breathing (5-5)

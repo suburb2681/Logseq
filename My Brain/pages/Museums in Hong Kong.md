@@ -1,4 +1,4 @@
-tags:: #Museums, #[[Hong Kong]]
+tags:: #Museums, #[[Hong Kong]], #art, #culture #Music 
 parent:: #Museums
 - **00:21** [[quick capture]]: Hong Kong Palace Museum | Exhibitions https://www.hkpm.org.hk/en/exhibition
 - **00:22** [[quick capture]]: Exhibitions & Events | Hong Kong Museum of Art https://hk.art.museum/en/web/ma/exhibitions-and-events.html

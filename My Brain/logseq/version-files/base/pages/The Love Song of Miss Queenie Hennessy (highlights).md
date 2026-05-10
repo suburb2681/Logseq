@@ -2,6 +2,7 @@ title:: The Love Song of Miss Queenie Hennessy (highlights)
 author:: [[Rachel Joyce]]
 full-title:: "The Love Song of Miss Queenie Hennessy"
 category:: #books
+language:: #english
 ![](https://images-na.ssl-images-amazon.com/images/I/51QQ50bdKYL._SL200_.jpg)
 - Highlights first synced by [[Readwise]] [[2025/03/24 Monday]]
 	- Sometimes you have to do something with your pain because otherwise it will swallow you. ([Location 1068](https://readwise.io/to_kindle?action=open&asin=B00HFAZ3W8&location=1068))

@@ -1,4 +1,4 @@
-tags:: #Finance #Banking #[[Credit card]] #HSBC
+tags:: #Finance #Banking #[[Credit card]] #HSBC #[[Hong Kong]] 
 parent:: [[Credit card]]
 source:: https://www.hsbc.com.hk/credit-cards/products/red/#fn-cards-redcard421
 - RewardCash

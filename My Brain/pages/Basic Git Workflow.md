@@ -1,5 +1,6 @@
 tags:: #Git #Coding, #How-to 
 parent:: #Git, #How-to
+
 - ```git
   # Initialize a new repository
   git init
@@ -16,3 +17,5 @@ parent:: #Git, #How-to
   # Push changes
   git push -u origin main  # Use 'master' instead of 'main' for older repos
   ```
+- To see note taking patterns: `git log --online`
+- To peek at how specific thoughts developed over time: `git show`

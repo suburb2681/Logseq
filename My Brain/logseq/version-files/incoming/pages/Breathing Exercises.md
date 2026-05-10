@@ -1,4 +1,4 @@
-tags:: #Meditation #Mindfulness #Anxiety #Depression
+tags:: #Meditation #Mindfulness #Anxiety #Depression #Self-Care #Stress #Panic 
 parent:: #Meditation
 
 - Relax: Extended Exhale (4-6)

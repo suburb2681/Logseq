@@ -1,7 +1,7 @@
 description:: the origin of the Apple Shortcut I made
-tags:: #Apple #AI #Claude #apolloapp #iOS #Shortcuts 
-prompt:: #[[Claude 3.7 Sonnet Prompt]]
-llm:: [[Claude 3.7 Sonnet]]
+tags:: #Apple #AI #[[Claude Sonnet]] #apolloapp #iOS #Shortcuts 
+prompt:: #[[Claude Sonnet System Prompt]]
+llm:: [[Claude Sonnet 3.7]]
 - User: How would call a tool that can summarise, read and translate text?
 	- Assistant: I'd call that a "Text Processing Assistant" or "Multi-function Text Tool." It combines the key capabilities of summarisation, reading (presumably text-to-speech or comprehension), and translation into a single utility. It's essentially a comprehensive text manipulation tool that handles multiple language-related functions at once.
 	- Would you like to hear more about how such tools work or are you looking to find or build something like this?

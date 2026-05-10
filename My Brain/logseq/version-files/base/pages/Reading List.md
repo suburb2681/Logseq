@@ -1,5 +1,6 @@
 tags:: #books
 parent:: [[To-do List]]
+
 - [[Christianity]]
 	- [[The Case for Christ]] by [[Lee Strobel]]
 - **INTP**
@@ -16,6 +17,7 @@ parent:: [[To-do List]]
 	  以上几位INTP对我的思想和成长有很大帮助，所以我推荐。至于为什么这几位是INTP，或者某网站上说其中某人是另一个类型，以及评论中可能会问到的其他某某人是不是INTP，由于不是本期视频的主旨，我考虑会针对有价值的评论在未来以视频形式统一答复。
 	- 易经八卦对应的八维（版本之一）：乾Ne坤Fe坎Fi离Te震Se艮Si巽Ti兑Ni
 	- 杜威 民族主義和教育
+	- 伍尔夫“的《一间自己的房间》
 - **Fearful avoidant attachment**
 	- Intimate relationship by Rowland Miller
 	- Relationship: bridge to the soul by Christopher Moon
@@ -75,4 +77,5 @@ parent:: [[To-do List]]
 - Franz Kafka
 - Raymond Chandler
 - 我在 # 美丽新世界[搜索高亮]# 简介上看到啦 奥威尔《一九八四》和扎米亚京《我们》  谢谢你的线索
--
+- **22:03** [[quick capture]]:  ![IMG_1257](../assets/IMG_1257.PNG)
+- 非暴力沟通

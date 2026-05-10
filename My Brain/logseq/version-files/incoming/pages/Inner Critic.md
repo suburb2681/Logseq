@@ -1,4 +1,4 @@
-tags:: #Psychology
+tags:: #Psychology #[[Migrate from Apple Notes]] #Therapy 
 parent:: #Psychology
 
 - How to deal with your inner critic

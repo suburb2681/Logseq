@@ -1,5 +1,6 @@
-tags:: #Psychology
+tags:: #Psychology #[[Migrate from Apple Notes]] #Therapy 
 parent:: #Psychology
+
 - How to deal with your inner critic
 	- PAL / breathing / grounding
 	  logseq.order-list-type:: number

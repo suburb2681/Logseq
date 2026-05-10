@@ -2,6 +2,7 @@ title:: Spark Joy (highlights)
 author:: [[Marie Kondo]]
 full-title:: "Spark Joy"
 category:: #books
+language:: #english
 ![](https://images-na.ssl-images-amazon.com/images/I/410knfB9VYL._SL200_.jpg)
 - Highlights first synced by [[Readwise]] [[2025/03/24 Monday]]
 	- When something sparks joy, you should feel a little thrill, as if the cells in your body are slowly rising. When you hold something that doesn’t bring you joy, however, you will notice that your body feels heavier. ([Location 191](https://readwise.io/to_kindle?action=open&asin=B0186O2N2O&location=191))

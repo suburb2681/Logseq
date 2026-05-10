@@ -1,5 +1,7 @@
 tags:: #[[Artificial intelligence]], #[[Apollo App]] 
 alias:: prompt
+parent:: #AI
+
 - My prompts
   query-table:: true
   query-properties:: [:page :tags :alias]

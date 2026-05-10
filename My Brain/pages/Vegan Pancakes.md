@@ -1,0 +1,29 @@
+tags:: #american #recipe #[[Migrate from Pocket]] 
+status:: active
+description:: Pancakes with non-dairy milk
+parent:: #Recipes
+last-updated:: [[2025/05/24 Saturday]]
+- ## Recipe
+	- ### Ingredients
+		- 1 cup nondairy milk
+		- 1 cups whole wheat pastry flour
+		- 1 tbsp baking powder
+		- ½ tsp cinnamon
+		- ⅛ tsp salt
+		- 2 tbsp pure maple syrup
+		- 1 tbsp raw sugar (optional)
+	- ### Instructions
+		- Whisk flour, baking powder, cinnamon and salt together in a large bowl. Combine non-dairy milk with maple and sugar, if using.
+		  logseq.order-list-type:: number
+		- Pour wet mixture into the dry mixture and stir until just combined; a few lumps are okay. Let rest 10 minutes. Meanwhile, heat a skillet over very low heat.
+		  logseq.order-list-type:: number
+		- Transfer mixture to a large glass/liquid measuring cup or use ¼-cup measuring cup. Pour ¼ cup batter into a non-stick skillet. Cook on one side until bubbles form, gently flip, and cook for another 2-3 minutes.
+		  logseq.order-list-type:: number
+	- #### My notes
+		- Makes pancakes that are like hotcakes
+		- Works with dairy milk too
+		- Replace maple syrup and sugar with maple sugar
+		- Enough for 2 meals of 3 pancakes, i.e. 6 in total
+	- *Sources:*
+		- https://happyherbivore.com/recipe/vegan-pancakes/
+		  (Date accessed: [[2025/05/24 Saturday]])

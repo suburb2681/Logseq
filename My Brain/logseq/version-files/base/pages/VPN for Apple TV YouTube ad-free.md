@@ -1,6 +1,5 @@
-tags:: #Apple, #VPN, #Adblock 
+tags:: #Apple, #VPN, #Adblock #YouTube 
 parent:: #VPN, #Adblock
-
 - Ad-free YouTube countries
 	- source:: https://www.reddit.com/r/Adblock/s/34UgoBlAeu
 	- |Country|Reason|

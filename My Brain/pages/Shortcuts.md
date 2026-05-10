@@ -1,6 +1,5 @@
 tags:: #Apple, #iOS 
 parent:: #Apple
-
 - [Apollo AI](((67e44f85-391c-42d0-8d34-14223fb32322)))
   query-table:: false
   query-properties:: [:parent :page :tags]

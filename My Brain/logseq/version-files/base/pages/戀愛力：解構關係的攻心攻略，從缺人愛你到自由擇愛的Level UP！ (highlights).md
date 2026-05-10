@@ -2,6 +2,7 @@ title:: 戀愛力：解構關係的攻心攻略，從缺人愛你到自由擇愛
 author:: [[文飛(Dana)]]
 full-title:: "戀愛力：解構關係的攻心攻略，從缺人愛你到自由擇愛的Level UP！"
 category:: #books
+language:: #chinese #[[Traditional Chinese]] 
 ![](https://m.media-amazon.com/images/I/81BBXAlrwxL._SY160.jpg)
 - Highlights first synced by [[Readwise]] [[2025/03/24 Monday]]
 	- 當我們覺得自己不會被其他人喜歡時，是將自己以外的他人定義成「容易討厭別人的人」，也就是「壞人」。 ([Location 283](https://readwise.io/to_kindle?action=open&asin=B07VPMR852&location=283))

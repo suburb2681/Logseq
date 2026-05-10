@@ -1,6 +1,8 @@
-tags:: #Psychology #Psychiatry #Neuroscience #Therapy #Trauma #CBT #PTSD
+tags:: #Psychology #Psychiatry #Neuroscience #Therapy #Trauma #CBT #PTSD #books 
 category:: #books
 author:: [[Bessel van der Kolk]]
+language:: #english
+parent:: #books
 
 - Methods for treating [[PTSD]]
 	- Bilateral Stimulation/EMDR
@@ -14,14 +16,14 @@ author:: [[Bessel van der Kolk]]
 		- [[DeepSeek]] told me about [[Binaural Beats]] and told me I can find them in Spotify, YouTube and [[Calm app]].
 			- Luckily I can get the Calm app under company health plan and I have been using it ever since for [[Meditation]] , [[Sleep]], [[breathing exercises]] and [[Mindfulness]] training
 			- I find the [[Binaural Beats]] in Spotify quite unpleasant and makes me uncomfortable while those in [[Calm App]] are soothing and much better
-- Quotes
+- #Quotes
   id:: 6820e5ac-5d11-4cb9-b809-8fdfb9f578a4
 	- ‘Acting is not about putting on a character but discovering the character within you; you are the character, you just have to find it within yourself—albeit a very expanded version of yourself.’ —Tina Packer
 	- Our sense of agency, how much we feel in control is defined by our relationship with our bodies and its rhythms… In order to find our voice, we have to be in our bodies - able to breathe fully and able to access our inner sensations.
-		- tags:: #thoughts #counselling
+		- #thoughts #counselling
 		  Hence the useful somatic therapy, PAL taught by Michelle.
 	- It’s also the opposite of depression… Acting is an experience of using your body to take your place in life.
-		- tags:: #thoughts
+		- #thoughts
 		  i.e. Grounding, being grounded to feel the present, to feel life and the world.
 	- Music, art, theatre, sports — timeless ways of fostering competence and collective bonding.
 	- Competence is the best defence against the helplessness of trauma.

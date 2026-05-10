@@ -2,6 +2,7 @@ title:: 是男人沒有眼光，還是妳不懂得發光 (highlights)
 author:: [[文飛(Dana)]]
 full-title:: "是男人沒有眼光，還是妳不懂得發光"
 category:: #books
+language:: #chinese #[[Traditional Chinese]] 
 ![](https://m.media-amazon.com/images/I/81hhVDNh6LL._SY160.jpg)
 - Highlights first synced by [[Readwise]] [[2025/03/24 Monday]]
 	- 而擺臭臉的原因不是因為我本來就臉臭，是因為我對自己沒自信，以及對於世界跟他人的不信任！ ([Location 174](https://readwise.io/to_kindle?action=open&asin=B07MD99Z6T&location=174))

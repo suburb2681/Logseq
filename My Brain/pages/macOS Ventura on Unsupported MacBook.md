@@ -1,7 +1,7 @@
 tags:: #Apple #macOS #apolloapp 
 parent:: #macOS
 prompt:: #[[Apollo Search]]
-llm:: [[Claude 3.7 Sonnet]] (thinking)
+llm:: [[Claude Sonnet 3.7]] (thinking)
 - User: How to upgrade MacOS Ventura when my MacBook Pro is not qualified?
   Assistant: # Installing macOS Ventura on an Unsupported MacBook Pro
   

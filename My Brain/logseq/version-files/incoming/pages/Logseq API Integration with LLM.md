@@ -1,7 +1,7 @@
 tags:: #Logseq #apolloapp #LLM #AI #mcp 
 parent:: #Logseq 
 prompt:: #[[Apollo Search]]
-llm:: [[Claude 3.7 Sonnet]] (thinking)
+llm:: [[Claude Sonnet 3.7]] (thinking)
 - User: How can I get LLM to interact with my Logseq notes via the Logseq API as MCP server and connect to LLM?
   Assistant: # Connecting an LLM to Your Logseq Notes via MCP Server
   

@@ -1,5 +1,6 @@
 tags:: #Anxiety #Music #[[Brainwaves]]
 source:: [[DeepSeek]]
+parent:: #Brainwaves
 - Binaural beats are an auditory illusion created when two tones of slightly different frequencies are played in each ear. The brain perceives a third tone, called the binaural beat, which is the difference between the two frequencies. This phenomenon is believed to influence brainwave activity and promote various mental states, such as relaxation, focus, or sleep.
 - ### How Binaural Beats Work:
   1. **Two Different Frequencies**: For example, if a 300 Hz tone is played in one ear and a 310 Hz tone in the other, the brain perceives a binaural beat of 10 Hz.

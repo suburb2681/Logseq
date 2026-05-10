@@ -25,7 +25,6 @@ parent:: #AI
 	  https://docs.trae.ai/docs/what-is-trae?_lang=en
 	  http://wind.surf/x
 		- Answer 1
-		  collapsed:: true
 			- Here's my technical analysis based on the provided documentation:
 			  
 			  **Cherry Studio**  
@@ -58,7 +57,6 @@ parent:: #AI
 			  
 			  Need me to check alternative Windsurf URLs?
 		- Answer 2
-		  collapsed:: true
 			- Let me analyse these AI development platforms based on available information:
 			  
 			  **1. Cherry AI**  

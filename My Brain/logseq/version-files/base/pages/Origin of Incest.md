@@ -1,5 +1,4 @@
 tags:: #thoughts, #questions, #Christianity
-
 - From Adam and Eve to around Abraham, they could marry siblings without genetic issues probably due to genetics still being diverse and genetic variations were still ongoing
 - So until when is genetic variations are maxed out and incest will cause genetic diseases? Around ancient Egyptian times, incest marriage has already caused pre adulthood deaths and shorter lifespans as well as fewer pregnancies.
 - From [[DeepSeek]] in [[Logseq]] Copilot plugin

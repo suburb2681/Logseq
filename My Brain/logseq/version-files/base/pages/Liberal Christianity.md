@@ -1,6 +1,7 @@
-tags:: #Christianity #Religion
+tags:: #Christianity #Religion #[[Migrate from Apple Notes]] 
 parent:: #Christianity
 source:: #Wikipedia
+
 - **Liberal Christianity - Wikipedia**
 - Liberal Christianity, broadly speaking, is a method of biblical hermeneutics, an undogmatic method of understanding God through the use of scripture by applying the same modern hermeneutics used to understand any ancient writings, symbols and scriptures.
 - ..."liberalism" from the start embraced the methodologies of **Enlightenment science**, including **empirical evidence** and the use of **reason**, as the basis for interpreting the Bible, life, faith and theology.

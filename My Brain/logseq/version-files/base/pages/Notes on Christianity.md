@@ -1,5 +1,6 @@
-tags:: #Christianity #Religion
+tags:: #Christianity #Religion #[[Migrate from Apple Notes]] 
 parent:: #Christianity
+
 - Incarnation of Christ
 	- Chalcedonian Definition: Christ is 'acknowledged in two natures', which 'come together into one person and one hypostasis'
 	- Hypostasis (theology): one of the three elements of the trinity

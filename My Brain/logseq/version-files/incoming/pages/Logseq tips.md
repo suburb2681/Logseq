@@ -1,5 +1,5 @@
-tags:: #Logseq, #how-to 
-parent:: #Logseq
+tags:: #Logseq, #How-to 
+parent:: #Logseq, #How-to
 
 - Logseq documentation
 	- **13:12** [[quick capture]]: Advanced comands https://docs.logseq.com/#/page/advanced%20commands
@@ -23,3 +23,10 @@ parent:: #Logseq
   id:: 67e50791-76d9-45c3-9a44-5c51b2160dbe
 	- **16:08** [[quick capture]]:  https://discuss.logseq.com/t/advanced-query-for-sorted-tasks-with-custom-table-view/29101
 	- **16:08** [[quick capture]]:  https://gist.github.com/theCalcaholic/f34542bf7943e6fd5b8ddd6066f42108
+- Web Clippers
+	- https://addons.mozilla.org/en-GB/firefox/addon/markdownload/
+	- https://addons.mozilla.org/en-US/firefox/addon/logseq-web-clipper/
+- [[Templates]]
+	- https://blog.logseq.com/how-to-set-up-an-automated-daily-template-in-logseq/
+	- https://docs.logseq.com/?ref=blog.logseq.com#/page/templates
+-

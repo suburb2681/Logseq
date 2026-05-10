@@ -1,7 +1,7 @@
-tags:: #AI #Claude #claudeprompt #apolloapp
+tags:: #AI #[[Claude Sonnet]] #claudeprompt #apolloapp
 parent:: #AI
-prompt:: #[[Claude 3.7 Sonnet Prompt]]
-LLM:: [[Claude 3.7 Sonnet]]
+prompt:: #[[Claude Sonnet System Prompt]]
+LLM:: [[Claude Sonnet 3.7]]
 - User: I’m very overwhelmed by all the AI news and disruption. It’s so rapidly moving and I feel like there’s too much information overload and I can’t keep up with the world
   collapsed:: true
 	- Assistant: I hear you completely. That feeling of AI developments rushing past faster than anyone can process is so real and incredibly common right now.

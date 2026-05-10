@@ -1,7 +1,6 @@
 tags:: #VPN, #Privacy 
 alias:: Mullvad
 parent:: #VPN
-
 - Shadowsocks for [[Shadowrocket]]
   id:: 67e52cbe-d3b1-434f-87ae-ec1691bd3a88
 	- https://mullvad.net/en/help/intro-shadowsocks
@@ -15,10 +14,8 @@ parent:: #VPN
 		- Twitter is not working though and cannot whitelist
 - Mullvad For China
   id:: 67e52eab-2e96-4647-b6a8-8d4576f85961
+	- ((67eae3da-c52c-45fa-beef-217f7dbf207c))
 	- https://clashhk.com/21047.html
 	- https://www.wallmama.com/mullvad-vpn%E4%B8%AD%E5%9B%BD%E8%AF%84%E6%B5%8B/
-- [[Tailscale]]
+- ((67eaf0a2-378b-49ce-adb3-1a3a36b80599))
   id:: 67e52eeb-0a49-4029-a570-f7bb44fc7e1d
-	- https://deverman.org/using-mullvad-vpn-apple-tv/
-	- https://tailscale.com/blog/mullvad-integration
-	  id:: 67e9b334-1128-4a4a-8634-f57c0457f16e

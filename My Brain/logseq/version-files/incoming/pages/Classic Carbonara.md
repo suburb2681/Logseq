@@ -1,0 +1,34 @@
+tags:: #italian #recipe [[Migrate from Pocket]] 
+description:: One of the most Classic Italian Pasta dishes, La Carbonara, Pancetta and Egg Pasta. A creamy delicious dinner recipe without the cream. Ready in15 minutes or less.
+status:: developing
+parent:: #Recipes
+last-updated:: [[2025/05/24 Saturday]]
+- ## Recipe
+	- ### Ingredients
+		- 2 tablespoons olive oil
+		- 3-4 tablespoons fresh grated parmesan cheese  (plus extra for sprinkling)
+		- 3 large eggs (room temperature)
+		- ⅔ cup cubed pancetta
+		- 3 cups cooked pasta (long or short whichever you prefer)
+		- 1-2 pinches hot pepper flakes to taste if desired (pinch or two)
+	- ### Instructions
+		- In a large frying pan add the oil , pancetta and hot pepper flakes (if using) cook on medium heat until the pancetta is cooked (but not too crispy). Stirring often so the pancetta doesn't burn.
+		  logseq.order-list-type:: number
+		- While pancetta is cooking , boil a large pot of water, when the water has boiled add some salt and the pasta and cook until al dente*. (If the pancetta is done before the pasta is cooked then turn off the heat, you will reheat later).
+		  logseq.order-list-type:: number
+		- While pasta is cooking, in a small bowl beat the 3 eggs, then add the parmesan and mix very well. When the pasta is cooked turn the heat back on the pancetta (to medium high), add the drained pasta toss together to combine well for about 20-30 seconds, then remove the pan 
+		  logseq.order-list-type:: number
+		  from the heat add the egg mixture, constantly tossing together add a tablespoon or two of pasta water to make sure it is very creamy and continue to toss until well blended. Top with parmesan cheese if desired. Serve immediately. Enjoy!
+	- #### Tips
+		- She told me that her secret was adding 3 tablespoons of grated 
+		  (freshly grated really does make a difference) parmesan cheese into the 
+		  beaten egg mixture and right she was.
+		- If you prefer pecorino that would work too. Or you could use half and half.
+		- Be sure your eggs are room temperature. And please no cream in the Classic Carbonara!
+		- Some Italians swear that you should use only guanciale (my daughter 
+		  included), some believe you should only use pecorino (yup, her again), 
+		  some use only egg yolks and not the whole egg.
+		- Some make it with mezza maniche, rigatoni and of course Spaghetti.
+	- *Sources:*
+		- https://anitalianinmykitchen.com/carbonara-pancetta-and-egg-pasta/
+		  (Date accessed: [[2025/05/24 Saturday]])

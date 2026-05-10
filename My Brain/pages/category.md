@@ -1,1 +1,4 @@
 exclude-from-graph-view:: false
+- Values
+	- [[books]]
+	- [[TV shows]]

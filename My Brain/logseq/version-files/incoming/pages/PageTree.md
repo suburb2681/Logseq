@@ -1,4 +1,4 @@
-- ```javascript
+- ``` javascript
   // PageTree
   
   PageTree = logseq.kits.PageTree = {

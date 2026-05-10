@@ -2,6 +2,7 @@ title:: The Life-Changing Magic of Tidying (highlights)
 author:: [[Marie Kondo]]
 full-title:: "The Life-Changing Magic of Tidying"
 category:: #books
+language:: #english
 ![](https://images-na.ssl-images-amazon.com/images/I/51hDPxPUlcL._SL200_.jpg)
 - Highlights first synced by [[Readwise]] [[2025/03/24 Monday]]
 	- Tidying brings visible results. Tidying never lies. The ultimate secret of success is this: if you tidy up in one go, rather than little by little, you can dramatically change your mindset. This brings about a change so profound that it touches your emotions and will irresistibly affect your way of thinking and your lifestyle habits. ([Location 220](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=220))

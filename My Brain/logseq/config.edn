@@ -309,11 +309,12 @@
  ;; {:link-dist       180    ; Default value: 180
  ;;  :charge-strength -600   ; Default value: -600
  ;;  :charge-range    600}   ; Default value: 600
- :graph/forcesettings {:charge-range 900
- :link-dist 90}
+ :graph/forcesettings {:charge-range 2600
+ :link-dist 110}
 
  ;; Favorites to list on the left sidebar
- :favorites ["contents" "tasks" "logseq backup"]}
+ :favorites ["Templates" "Recipes" "contents" "tasks" "logseq backup"]
+ :editor/logical-outdenting? false}
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -346,7 +347,7 @@
  ;; Properties that are ignored when parsing property values for references
  ;; Example usage:
  ;; :ignored-page-references-keywords #{:author :website}
- :ignored-page-references-keywords #{:description :source :title :alias}
+ :ignored-page-references-keywords #{:description :source :title :alias :last-updated}
  ;; logbook configuration.
  ;; :logbook/settings
  ;; {:with-second-support? false ;limit logbook to minutes, seconds will be eliminated
@@ -375,7 +376,7 @@
 
  ;; Enable logical outdenting
  ;; Default value: false
- :editor/logical-outdenting? true
+ :editor/logical-outdenting? false
 
  ;; Prefer pasting the file when text and a file are in the clipboard.
  ;; Default value: false

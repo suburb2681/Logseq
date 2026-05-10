@@ -1,7 +1,6 @@
 tags:: #VPN, #Privacy 
 alias:: Mullvad
 parent:: #VPN
-
 - Shadowsocks for [[Shadowrocket]]
   id:: 67e52cbe-d3b1-434f-87ae-ec1691bd3a88
 	- https://mullvad.net/en/help/intro-shadowsocks
