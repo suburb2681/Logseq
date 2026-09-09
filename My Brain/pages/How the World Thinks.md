@@ -43,10 +43,34 @@ last-updated:: [[2025/11/14 Friday]] 04:29
 			- Good point. Traditions set things in stone and humans get used to them as golden truths. But is there still room for new thoughts and ideas? That’s for philosophers to think. I feel like there are few famous philosophers in modern times now that we are rich and plenty and no more ‘food’ for thoughts, ie poverty, conflicts, need to survive.
 		- *Source: P. xviii*
 	- #quotes 
+	  collapsed:: true
 	  >We cannot understand ourselves if we do not understand others. … If cultures are to meet rather than clash, we need to understand not just how others differ from ourselves, but how we differ from them.
 		- #### #Thoughts
 			- This is very profound and intriguing.  Sometimes, we fail or are unable to see ourselves clearly. It’s by finding others strange and weird that we get to understand what set them apart and what we have accepted as normal.
 		- *Source: P. xviii*
+	- #quotes 
+	  collapsed:: true
+	  > In the seventeenth century, René Descartes wrote in his *Discourse on Method*, ‘In my travelling, I learned that those who have views very different from our own are therefore barbarians or savages, but that several use as much reason as we do, or more.’
+		- #### #Thoughts
+			- Self-reflection prompted. Don’t reject other’s perspectives or opinions as strange or weird. They have their own environment or upbringing and personality that shape their mindset and it makes sense to them. They have their own reasons so we have to respect each other.
+		- *Source: P. xxi*
+	- #quotes 
+	  collapsed:: true
+	  > To travel around the world’s philosophies is an opportunity to challenge the beliefs and ways of thinking we take for granted. By gaining greater knowledge of how others think, we can become less certain of the knowledge we think we have, which is always the first step to greater understanding.
+		- #### #Thoughts
+			- Our beliefs and ways of thinking are from customs and culture or example of society - which could be different for different cultures across the world. There’s not right or wrong. Respect, challenge, acknowledge, understand.
+		- *Source: P. xxi*
+	- #quotes 
+	  > Chief among these is the idea that ultimate reality is *Brahman*, an infinite, unchanging, universal soul. The individual self, *ātman*, only has the illusion of independence. Our ultimate goal is to dissolve the ego and return to *Brahman*.
+		- #### #Thoughts
+			- So similar to Christianity yet this Indian orthodox philosophy from 500/600 BCE - 200 CE
+				- *Source: P. xxv*
+	- #quotes 
+	  > The Buddha walked a middle path, arguing that the only evidence available to us is that of experience, which makes speculations as to the nature of ‘ultimate’ reality fruitless. Nonetheless, he shared the orthodox Indian assumption that ordinary experience was illusory and effort is required to see beyond it.
+		- #### #Thoughts
+			- Buddhism has some interesting concepts and I agree with the above. We will never know the ultimate reality so experience our own world and live in the moment. However he also said our ordinary experience are illusions. What does ‘ordinary experience’ mean?
+			- I originally thought the above. He actually says ‘speculations’. We have to try to experience with efforts like meditation to get to the ‘ultimate’ reality instead of merely thinking and guessing.
+		- *Source: P. xxvi*
 - ## My Review:
 	- So far, pretty neutral, balanced and fair display of Eastern and western philosophy
 	- Well written and engaging. Thought provoking

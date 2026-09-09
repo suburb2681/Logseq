@@ -21,7 +21,6 @@ exclude-from-graph-view:: true
 - # 2. Recipes
   template:: recipe
   template-including-parent:: false
-  collapsed:: true
 	- tags:: #cuisine #recipe 
 	  status:: active/developing/optional
 	  description:: to-be-filled
@@ -51,7 +50,6 @@ exclude-from-graph-view:: true
 - # 3. Prompts
   template:: prompt
   template-including-parent:: false
-  collapsed:: true
 	- tags:: #AI, #apolloapp, #prompt
 	  parent:: #Prompts
 	  description:: to-be-filled
@@ -74,13 +72,19 @@ exclude-from-graph-view:: true
 			- Further information (if any)
 	- ## Quotes
 		- template:: book-quote
-		  #quotes 
+		  #quotes <% today %> <% time %>
 		  > quote here
 			- #### #Thoughts
 			- *Source: P. 0*
 	- ## My Review:
 		- `Review here`
-- # 5. Journal
-- template:: journal
+- # 5. Journal Tags
+  id:: 6a353615-de49-499a-a46c-64baf4355650
+- template:: journal-tags
   template-including-parent:: false
-	- tags:: <% this year %> <% this year %>/<% this month %> <% day of the week %>
+	- tags:: <% this year %>, <% today %>, <% today %>
+- # 6. Datetime Stamp
+  id:: 6a53fce7-b36e-474a-b4f3-9bcf04eb8029
+- template:: datetime-stamp
+  template-including-parent:: false
+	- <% today %> <% time %>
